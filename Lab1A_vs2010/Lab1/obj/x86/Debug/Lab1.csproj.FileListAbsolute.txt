@@ -1,0 +1,15 @@
+C:\Users\DIM\Desktop\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\DIM\Desktop\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\DIM\Desktop\Lab1\Lab1\obj\x86\Debug\Lab1.exe
+C:\Users\DIM\Desktop\Lab1\Lab1\obj\x86\Debug\Lab1.pdb
+C:\Users\DIM\Desktop\Lab1\Lab1\obj\x86\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\DIM\Desktop\Лабы Пар прогр\Lab 1A\Lab1\obj\x86\Debug\Lab1.exe
+C:\Users\DIM\Desktop\Лабы Пар прогр\Lab 1A\Lab1\obj\x86\Debug\Lab1.pdb
+C:\Users\DIM\Desktop\Лабы Пар прогр\Lab 1A\Lab1\bin\Debug\Lab1.exe
+C:\Users\DIM\Desktop\Лабы Пар прогр\Lab 1A\Lab1\bin\Debug\Lab1.pdb
+C:\Users\DIM\Desktop\Лабы Пар прогр\Lab 1A\Lab1\obj\x86\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab 1A\Lab1\obj\x86\Debug\Lab1.exe
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab 1A\Lab1\obj\x86\Debug\Lab1.pdb
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab 1A\Lab1\bin\Debug\Lab1.exe
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab 1A\Lab1\bin\Debug\Lab1.pdb
+C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab 1A\Lab1\obj\x86\Debug\Lab1.csprojResolveAssemblyReference.cache
