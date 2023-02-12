@@ -1,0 +1,17 @@
+﻿Построение начато 02.11.2022 8:49:25.
+     1>Проект "C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab2\Lab2\Lab2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Lab2.vcxproj -> C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab2\Debug\Lab2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab2.lastbuildstate".
+     1>Построение проекта "C:\Users\IVC_HALITOVDP\Desktop\Пар вычисл\Lab2\Lab2\Lab2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.06
